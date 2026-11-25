@@ -1,0 +1,18 @@
+# Python bytecode and caches — never part of the entry.
+__pycache__/
+*.pyc
+*.pyo
+
+# Local build and test outputs.
+output/
+*.log
+
+# Editor and OS clutter.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Submission working files live outside the repo (see the -submit folder);
+# nothing under submit/ should ever be committed here.
+submit/
